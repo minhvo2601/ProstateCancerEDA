@@ -5,8 +5,8 @@ I used SAS Studio to generate univariate and multivariate descriptive analysis m
 the correlations between the risk of contracting prostate cancer and common health factors. A final paper
 was produced to report the findings as well as graphical presentations for Explanatory Data Analysis.
 
-This dataset is originally called Byar and Greene Prostate Cancer Data and was obtained from the 
-website of the Vanderbilt University Department of Biostatistics. This topic is chosen because of 
+This dataset, originally called Byar and Greene Prostate Cancer Data, was obtained from the 
+website of the Vanderbilt University Department of Biostatistics. I chose this topic because of 
 my interest in biostatistics hoping to learn more about how data analysis can help the healthcare 
 industry to improve its efficiency in saving lives and maintaining the public health of the community. 
 Specifically, this dataset can potentially contribute more to cardiovascular disease knowledge and in 
